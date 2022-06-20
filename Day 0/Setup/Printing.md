@@ -4,9 +4,9 @@
 > Create a .java file and print out the phrase "Java is Cool!"
 
 ## Requirements
-> a .java file
-> a .class file
-> prints "Java is Cool!" when run
+1. A .java file
+2. A .class file
+3. Prints "Java is Cool!" when run
 
 <details>
 <summary>Hints 🤫</summary>
