@@ -3,6 +3,11 @@
 ## Task 🐧
 > Create a .java file and print out the phrase "Java is Cool!"
 
+## Requirements
+> a .java file
+> a .class file
+> prints "Java is Cool!" when run
+
 <details>
 <summary>Hints 🤫</summary>
     <ol>
