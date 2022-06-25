@@ -1,12 +1,19 @@
-# Printing 🍵
+# Variables 🍵
 
 ### Task 🐧
 ```
-Create code that has a variable for each of the data types we discussed, and then prints each of those variables.
+Create code that has a variable for each of the following, and then prints them:
+
+A variable "age" containing your age
+A variable "height" containing your exact height in feet (if you dont know you can make someting up)
+A variable "firstLetter" contianing the first letter of your name
+A variable "lastName" containing your last name
+A variable "programmingBest" containing the answer to whether programming is best
+
 ```
 ### Requirements 🏫
 ```
 1. A .java file
-3. Prints variables of all the data types discussed when run (int, double, boolean, String, char)
+3. Prints all the variables listed in the task
 ```
 
