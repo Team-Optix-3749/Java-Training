@@ -9,7 +9,6 @@ A variable "height" containing your exact height in feet (if you dont know you c
 A variable "firstLetter" contianing the first letter of your name
 A variable "lastName" containing your last name
 A variable "programmingBest" containing the answer to whether programming is best
-
 ```
 ### Requirements 🏫
 ```
