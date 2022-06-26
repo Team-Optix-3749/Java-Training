@@ -13,6 +13,6 @@ A variable "programmingBest" containing the answer to whether programming is bes
 ### Requirements 🏫
 ```
 1. A .java file
-3. Prints all the variables listed in the task
+2. Prints all the variables listed in the task
 ```
 
