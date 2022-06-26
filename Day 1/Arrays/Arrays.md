@@ -4,7 +4,7 @@
 ```
 Create code that consists of an array with the following elements:
 
-An element containing the name of the best department
+An element containing the name of your department
 An element contianing the name of your favorite programming instructor
 An element contianing the name of our robotics team
 An element containing the name of the current President of the United States
