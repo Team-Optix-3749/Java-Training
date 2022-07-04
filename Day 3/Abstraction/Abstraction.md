@@ -19,12 +19,6 @@ Create another default class called 'Jacket' that extends Shirt:
  - Make an instance variable called brand
  - Make a constructor that takes in a color, price, and isZip and sets the instance variables (Use super() to call the constructor of Shirt)
  - Override the method called `getDescription()` that returns the color, brand, and price of the T_Shirt
-
-In public static void main(String[] args):
- - Create an instance of T_Shirt
- - Create an instance of Jacket
- - Print the description of the T_Shirt
- - Print the description of the Jacket
 ```
 ### Requirements 🏫
 ```
