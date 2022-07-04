@@ -17,7 +17,7 @@ Create a default class called `T_Shirt` that extends Shirt:
 Create another default class called 'Jacket' that extends Shirt:
  - Make an instance variable called price
  - Make an instance variable called brand
- - Make a constructor that takes in a color, price, and isZip and sets the instance variables (Use super() to call the constructor of Shirt)
+ - Make a constructor that takes in a color, and price, and sets the instance variables (Use super() to call the constructor of Shirt)
  - Override the method called `getDescription()` that returns the color, brand, and price of the T_Shirt
 ```
 ### Requirements 🏫
