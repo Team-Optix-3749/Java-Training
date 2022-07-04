@@ -12,18 +12,16 @@ Create a default class called `T_Shirt` that extends Shirt:
  - Make an instance variable called size
  - Make an instance variable called price
  - Make a constructor that takes in a color and a size and sets the instance variables (Use super() to call the constructor of Shirt)
- - Make a method called `getSize()` that returns the size of the shirt in a string
- - Make a method called `getPrice()` that returns the price of the shirt in a string
- - Make a method called `getColor()` that returns the color of the shirt (Use super() to call the constructor of Shirt)
+ - Override the method called `getSize()` that returns the size of the shirt in a string
+ - Override the method called `getPrice()` that returns the price of the shirt in a string
 
 Create another default class called 'Jacket' that extends Shirt:
  - Make and instance variable that is a boolean called isZip
  - Make an instance variable called price
  - Make an instance variable called size
  - Make a constructor that takes in a color, price, and isZip and sets the instance variables (Use super() to call the constructor of Shirt)
- - Make a method called `getSize()` that returns the size of the shirt in a string
- - Make a method called `getPrice()` that returns the price of the shirt
- - Make a method called `getColor()` that returns the color of the shirt (Use super() to call the constructor of Shirt)
+ - Ovveride the method `getSize()` that returns the size of the shirt in a string
+ - Override the method called `getPrice()` that returns the price of the shirt
 
 In public static void main(String[] args):
  - Create an instance of T_Shirt
