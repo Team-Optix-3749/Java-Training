@@ -1,18 +1,19 @@
-# Non-Void-Methods 🍵
+# Non-Void Methods 🍵
 
 ### Task 🐧
 ```
 Create code that completes the following tasks:
 
-Make a method that returns a different string than you passed in (but not the same one each time)
+Make a method that returns a string with " is friends with Albert" appended to the end of the string passed in to it
 Make a method that doubles the value you pass in
 Make a method the invertes the boolean that you pass in.
-Run and print these methods multiple times
 
+Pass in your name to the first method & print the result
+Pass in your favorite team number to the second method & print the result
+Pass if true if you are an Optix Enjoyer
 ```
 ### Requirements 🏫
 ```
 1. A .java file
-2. At least 3 different types of methods
-3. At least 6 prints
+2. Prints your name, double your favorite team number, and true
 ```
