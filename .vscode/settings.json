@@ -1,5 +1,7 @@
 {
   "java.project.sourcePaths": [
+    "Day 0/Setup",
+    "Day 1",
     "Day 2/While Loops",
     "Day 2/Void Methods",
     "Day 2/Non-Void Methods",
