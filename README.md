@@ -2,14 +2,16 @@
 🖊️ Exercises for our software training!
 
 ## How to Use
-<ul> 
+<ol> 
   <li> 
     <details>
       <summary> Complete activites in your own fork! 🍴</summary>
       <hr>
       <img src="https://user-images.githubusercontent.com/69406769/190986721-d2f7d10a-d150-41ab-971a-b6c598334e1f.png" >
       <hr>
-      <img src="https://user-images.githubusercontent.com/69406769/190986733-5efbb2b7-2951-47a4-9f4d-04085ba7ece7.png" >
+      <blockquote>DESELECT "Copy the main branch only"</blockquote>
+      <br>
+      <img src="https://user-images.githubusercontent.com/69406769/191634519-80c22284-30f4-4d93-a1de-53e339bc70d6.png" >
       <hr>
     </details>
   </li>
@@ -70,4 +72,4 @@
     </details>
   </li>
     
-</ul>
+</ol>
