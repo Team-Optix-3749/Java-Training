@@ -1,5 +1,5 @@
-# Java Training Exercises
-🖊️ Exercises for our software training!
+# Java Training
+🖊️ Java exercises for our software training!
 
 ## How to Use this Repository
 <ol> 
