@@ -61,13 +61,17 @@
       <hr>
       <img src="https://user-images.githubusercontent.com/69406769/190993317-bdbc4466-1232-41a0-a77f-ae6ba1bc8e26.png" >
       <hr>
-      <img src="https://user-images.githubusercontent.com/69406769/190993410-8b9c2ea6-c835-4a3c-9f94-6b8fbf52eb17.png" >
+      Change the base repository to <code>YOUR FORK</code> not <code>Team-Optix-3749: Java-Training</code>
+      <blockquote>SHOULD NOT look like this</blockquote>
+      <img src="https://media.discordapp.net/attachments/882455696199807007/1022321700261613608/unknown.png" >
+      <blockquote>SHOULD look like this</blockquote>
+      <img src="https://media.discordapp.net/attachments/882455696199807007/1022322140835491850/unknown.png">
       <hr>
-      <img src="https://user-images.githubusercontent.com/69406769/190995056-2cd60649-5b87-4902-ba4b-c3e0087077d2.png" >
+      <img src="https://media.discordapp.net/attachments/882455696199807007/1022323086172893205/unknown.png" >
       <hr>
-      <img src="https://user-images.githubusercontent.com/69406769/190995076-254d99a3-2364-4351-a9da-66b83d7318d0.png" >
+      <img src="https://media.discordapp.net/attachments/882455696199807007/1022323511152357486/unknown.png" >
       <hr>
-      <img src="https://user-images.githubusercontent.com/69406769/190993548-6cae402f-1906-4eb9-9ad1-015e3f98ec38.png" >
+      <img src="https://cdn.discordapp.com/attachments/882455696199807007/1022323636218118184/unknown.png" >
       <hr>
     </details>
   </li>
