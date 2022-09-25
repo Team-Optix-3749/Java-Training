@@ -49,12 +49,6 @@
   
   <li>
     <details>
-      <summary> Checks posted on the slides the proceeding classes & update any incorrect answers 👎</summary>
-    </details>
-  </li>
-  
-  <li>
-    <details>
       <summary> When a whole day is complete, create a pull request to merge your branch to the main branch (This is what the leads will be reviewing) 📫</summary>
       <hr>
       <img src="https://user-images.githubusercontent.com/69406769/190993256-68198a75-2c16-4302-9b79-017632603694.png" >
