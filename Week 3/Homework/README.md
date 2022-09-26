@@ -24,13 +24,14 @@ Create a class called Shoot
 Create a class called Robot
  - Declare the Shooter and Shoot objects
  - Create a method called `teleopInit()` that calls the `initialize()` method of the Shoot object
- - Create a method called `teleopPeriodic()` that calls the `execute()` method of the Shoot object IF the user enters the key "A" in the terminal
+ - Create a method called `teleopPeriodic()` that repeatedly calls the `execute()` method of the Shoot object IF the user enters the key "A" in the terminal
+   - If the user enters the key "q", exit `teleopPeriodic()`
  - Create a method called `teleopEnd()` that calls the `end()` method of the Shoot object
 
 ### Requirements 🏫
 ```
-1. A .java file
-2. Prints the exact qutient of 39 and 49
-3. Prints the rounded quotient of 37 and 49
-4. Prints the product of 37 and 49
+ 1. A .java file
+ 2. Prints "Shooter initialized" when the robot is turned on
+ 3. Prints "Shooting" when the user enters the key "A" in the terminal
+ 4. Prints "Shooter stopped" when the user enters "q" in the terminal
 ```
